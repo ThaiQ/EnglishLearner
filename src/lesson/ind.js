@@ -1,0 +1,25 @@
+const folders = [
+    "01-commerce",
+    "02-greeting",
+    "03-greeting-friends",
+    "04-happy-and-congrats",
+    "05-worry",
+    "06-restaurant",
+    "07-pharmacy",
+    "08-banking",
+    "09-post-office",
+    "10-gas-station",
+    "11-theater",
+    "12-taking-picture",
+    "13-hospital",
+    "14-sight-seeing",
+    "15-shopping",
+    "16-hobby",
+    "17-taking-breaks",
+    "18-workplace",
+    "19-job-interview",
+    "20-office",
+    "21-vacation",
+]
+
+module.exports = {folders}
