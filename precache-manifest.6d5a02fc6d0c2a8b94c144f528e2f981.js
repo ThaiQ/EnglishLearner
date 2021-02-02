@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a80c5242ed2f68ffed3a06331e29beb",
+    "revision": "32aacee6da413cdc343a81b8c5bcd849",
     "url": "/EnglishLearner/index.html"
   },
   {
-    "revision": "a5a2912f09e5dfd10ebc",
+    "revision": "e06fe1a98bf5ab4ad72a",
     "url": "/EnglishLearner/static/css/main.b20ee1f5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EnglishLearner/static/js/2.19445ee8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5a2912f09e5dfd10ebc",
-    "url": "/EnglishLearner/static/js/main.bc15f6a4.chunk.js"
+    "revision": "e06fe1a98bf5ab4ad72a",
+    "url": "/EnglishLearner/static/js/main.1f12ee30.chunk.js"
   },
   {
     "revision": "d7014402c1c603d45fbc",
