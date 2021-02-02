@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/EnglishLearner/static/css/main.f5d7dc65.chunk.css",
-    "main.js": "/EnglishLearner/static/js/main.1f12ee30.chunk.js",
-    "main.js.map": "/EnglishLearner/static/js/main.1f12ee30.chunk.js.map",
+    "main.js": "/EnglishLearner/static/js/main.9bfffb80.chunk.js",
+    "main.js.map": "/EnglishLearner/static/js/main.9bfffb80.chunk.js.map",
     "runtime-main.js": "/EnglishLearner/static/js/runtime-main.a7607fa9.js",
     "runtime-main.js.map": "/EnglishLearner/static/js/runtime-main.a7607fa9.js.map",
     "static/js/2.19445ee8.chunk.js": "/EnglishLearner/static/js/2.19445ee8.chunk.js",
     "static/js/2.19445ee8.chunk.js.map": "/EnglishLearner/static/js/2.19445ee8.chunk.js.map",
     "index.html": "/EnglishLearner/index.html",
-    "precache-manifest.cfee3ab404ff6b8e0caa24cc2cd7257e.js": "/EnglishLearner/precache-manifest.cfee3ab404ff6b8e0caa24cc2cd7257e.js",
+    "precache-manifest.5b768bd092a210448a65aa7da10b0017.js": "/EnglishLearner/precache-manifest.5b768bd092a210448a65aa7da10b0017.js",
     "service-worker.js": "/EnglishLearner/service-worker.js",
     "static/css/main.f5d7dc65.chunk.css.map": "/EnglishLearner/static/css/main.f5d7dc65.chunk.css.map",
     "static/js/2.19445ee8.chunk.js.LICENSE.txt": "/EnglishLearner/static/js/2.19445ee8.chunk.js.LICENSE.txt",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.a7607fa9.js",
     "static/js/2.19445ee8.chunk.js",
     "static/css/main.f5d7dc65.chunk.css",
-    "static/js/main.1f12ee30.chunk.js"
+    "static/js/main.9bfffb80.chunk.js"
   ]
 }
