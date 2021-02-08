@@ -8,7 +8,7 @@ const routing = (
   <Router>
     <Switch>
       <Route exact path="/" component={App} />
-      <Route path="/:section" component={App} />
+      <App/>
     </Switch>
   </Router>
 )
